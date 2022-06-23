@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlinaBeliakova
-- 👀 I’m interested in signal processing and data analysis
-- 🌱 I’m currently working on neuroscience projects with INSERM and CNRS (France)
-- 💞️ I’m looking to collaborate on tools for processing neurlogical data such as tools for visualization, spectral analysis, connectivity, etc.
+- 👀 I’m interested in AI
+- 💍 I’m currently working on AI stylist project
 - 📫 You can reach me through my personal email beliakova.alina@gmail.com
 
 <!---
